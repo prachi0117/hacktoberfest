@@ -32,6 +32,7 @@
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
+- 
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
@@ -42,6 +43,11 @@
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
+
+#### Name: [Prachi Gupta]
+ - Place: Indore,India
+ - Bio: 2nd year Computer Science student.
+ - GitHub: [Prachi Gupta](https://github.com/prachi0117)
 
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
